@@ -29,7 +29,7 @@ pip install -r requirements.txt
 2. 运行主程序（若要重新生成data文件则去掉get_symbol_info()、get_news_info()的注释，否则就只检查数据完整性）：
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## 数据说明
