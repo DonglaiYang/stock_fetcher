@@ -1,0 +1,5 @@
+akshare
+akshare-proxy-patch
+pandas
+tqdm
+requests
